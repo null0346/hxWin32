@@ -1,0 +1,12 @@
+{
+    "name": "hxWin32",
+    "url" : "https://github.com/null0346/hxWin32",
+    "license": "MIT",
+    "tags": ["windows"],
+    "description": "The Win32 API, ported to Haxe.",
+    "version": "1.0.0",
+    "classPath": "src/",
+    "releasenote": "Initial release, everything is working correctly.",
+    "contributors": ["hazel", "Nobody"],
+    "main": "tools.Main"
+  }
